@@ -24,6 +24,16 @@ I will rather add the problems that I have solved and my learnings from it!
     current end such that it could be reused in future
 </details>
 
+<details>
+    <summary>2025-02-08's problem: 1092. Shortest Common Supersequence</summary>
+
+    Correctly guessed on how subsequences are matched that it would actually follow the pattern of is a subsequence
+    problem, however given the constraints of problem we go out of memory.
+
+    This is because the Maximum possible size of array approaches 10 to the power of 6, which causes a memory limit to
+    be violated, instead we would have to use the total size and reconstruct it at end
+</details>
+
 # 2025-02-26
 
 This is my first log! Where I have actually set up my project and actually found all the different things that I want to
