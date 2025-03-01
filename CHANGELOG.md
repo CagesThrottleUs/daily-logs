@@ -34,6 +34,20 @@ I will rather add the problems that I have solved and my learnings from it!
     be violated, instead we would have to use the total size and reconstruct it at end
 </details>
 
+## Google Leetcode Discuss Section
+This section contains some of the most amazing problems as provided by Google that was discussed by the Interviewees, it
+is a good place to practice various different problems that are seen in interviews.
+
+Will be doing it by linking the discuss problem:
+
+<details>
+    <summary>[Google L4 Aug 2022](https://leetcode.com/discuss/interview-experience/2455876/Google-phone-interview-L4-Aug-2022-Reject)</summary>
+
+    Basically solve 282. Expression Add Operators
+
+    Didnt complete it
+</details>
+
 # 2025-02-26
 
 This is my first log! Where I have actually set up my project and actually found all the different things that I want to
